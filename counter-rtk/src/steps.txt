@@ -1,0 +1,1 @@
+Create a reducer component here give props state and action (state , action )
